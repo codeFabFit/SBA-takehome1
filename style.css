@@ -1,0 +1,73 @@
+/* goes with index.html */
+
+.navbar {
+    color: black;
+}
+
+.funfact{
+    display: flex;
+    justify-content: center;
+    align-content:space-evenly
+}
+
+.cross-image {
+    display: flex;
+    justify-content: center;
+    align-content: normal;
+}
+
+.graphinfo{
+ display: flex;
+ justify-content: center;
+    align-content: normal;
+}
+
+h1 ~ p {
+    display: flex;
+    text-align: center;
+}
+
+.main-container {
+    padding: 15px 15px 15px 15px;
+}
+
+#facts {
+    padding: 15px 10px 5px 15px
+}
+
+#compare {
+    display: flex;
+ justify-content: center;
+}
+
+h2 {
+    padding: 10px;
+    display: flex;
+ justify-content: center;
+}
+
+p {
+    padding: 15px;
+    color: grey;
+}
+
+body {
+    background-color: beige;
+}
+
+#take-test{
+    padding: 25px 25px 25px 25px;
+    margin-bottom: 10px;
+}
+
+.dropdown {
+    display: flex;
+    justify-content: right;
+    padding: 30px;
+    align-content: center;
+}
+
+
+.worldhelp {
+    background-color: blanchedalmond;
+}

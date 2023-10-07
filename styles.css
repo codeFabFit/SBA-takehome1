@@ -1,0 +1,42 @@
+#brainquote {
+    padding: 10px 10px 10px 10px;
+    border: 2px groove orange ;
+}
+
+.navbar {
+    color: black;
+}
+
+
+.main-container {
+    padding: 15px 15px 15px 15px;
+    border: 2px;
+}
+
+p {
+    padding: 15px;
+    color: grey;
+}
+
+.strong-brain {
+    display: flex;
+    justify-content: center;
+    align-content: normal;
+}
+
+
+h1 {
+    padding: 10px;
+    display: flex;
+ justify-content: center;
+ background-image: linear-gradient(to right, red , yellow);
+
+}
+
+
+.cross-image {
+    display: flex;
+    justify-content: center;
+    align-content: normal;
+}
+
